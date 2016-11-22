@@ -1,1 +1,1 @@
-﻿# sqlite3 v3.1.5--WindowsBinary
+﻿# sqlite3 v3.15.1--WindowsBinary
